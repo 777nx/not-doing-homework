@@ -118,7 +118,7 @@ export default defineConfig({
     logo: "/logo.png",
     nav: navbar,
     sidebar,
-    lastUpdated: "最近更新",
+    // lastUpdated: "最近更新",
 
     // GitHub 仓库位置
     repo: "777nx/not-doing-homework",
