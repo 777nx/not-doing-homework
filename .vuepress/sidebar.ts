@@ -1,4 +1,4 @@
-import {SidebarConfig4Multiple} from "vuepress/config";
+import { SidebarConfig4Multiple } from "vuepress/config";
 
 import roadmapSideBar from "./sidebars/roadmapSideBar";
 import roadmapSideBar2 from "./sidebars/roadmapSideBar2";
